@@ -5,7 +5,7 @@ The main objective of our work is to understand how and why transfer learning wo
 
 ## Data Preparation
 - We used Cats Vs Dogs dataset from Kaggle. Download the dataset from this link [here](https://www.kaggle.com/biaiscience/dogs-vs-cats).
-- Run `python preprocess_data.py` from the directory which has the downloaded dataset. This creates the datset in required strutcure for analysis.
+- Run `python prepare_dataset.py` from the directory which has the downloaded dataset. This creates the datset in required strutcure for analysis.
 - To run in Google Colab: Compress this dataset as a zip file and upload this in Google Drive 
 
 ## Experiments
