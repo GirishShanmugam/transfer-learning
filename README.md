@@ -1,7 +1,7 @@
 # transfer-learning
 Project on Transfer Learning for Natural Computation Methods for Machine Learning course(1DL073)
 
-More details about this project can be found in this [report](https://github.com/GirishShanmugam/transfer-learning/Report.pdf)
+More details about this project can be found in this [report](https://github.com/GirishShanmugam/transfer-learning/blob/master/Report.pdf) :blue_book:
 
 The main objective of our work is to understand how and why transfer learning works. We conduct a set of experiments similar to the ones performed in the paper ***How transferable are features in deep neural networks?***. In our work, we have replicated the experiments in PyTorch and used different datasets and model architecture.
 
