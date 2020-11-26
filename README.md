@@ -1,9 +1,9 @@
 # transfer-learning
 Project on Transfer Learning for Natural Computation Methods for Machine Learning course(1DL073)
 
-More details about this project can be found in this [report](https://github.com/GirishShanmugam/transfer-learning/blob/master/Report.pdf) :blue_book:
-
 The main objective of our work is to understand how and why transfer learning works. We conduct a set of experiments similar to the ones performed in the paper ***How transferable are features in deep neural networks?***. In our work, we have replicated the experiments in PyTorch and used different datasets and model architecture.
+
+More details about this project can be found in this [report](https://github.com/GirishShanmugam/transfer-learning/blob/master/Report.pdf) :blue_book:
 
 ## Data Preparation
 - We used Cats Vs Dogs dataset from Kaggle. Download the dataset from this link [here](https://www.kaggle.com/biaiscience/dogs-vs-cats).
